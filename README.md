@@ -15,7 +15,7 @@ An AI powered agriculture utility platform
 
 **Web:** Flask, Bootstrap
 
-## Installation
+
 
 There are 2 parts in this project
 
@@ -23,15 +23,7 @@ There are 2 parts in this project
 
 In the models directory there are two folders 'recommender-models' & 'cnn'. Recommender-models has all the models related to crop recommendation system and cnn folder contains all the notebooks and models related to plant disease classification.
 
-#### Web
 
-```bash
-  python3 -m venv venv
-  cd GrowGuardian/webapp
-  pip3 install -r requirements.txt
-  python3 setup.py
-```
-## Results
 
 ### Crop Recommendation
 
@@ -50,4 +42,8 @@ In the models directory there are two folders 'recommender-models' & 'cnn'. Reco
 |VGG16|92.18|91.33|91.78|
 |ResNet50|96.02|95.41|95.53|
 |EfficientNetV2|96.06|95.53|95.83|
+
+=======
+# GrowGuardian
+GrowGuardian-AI for framing
 
